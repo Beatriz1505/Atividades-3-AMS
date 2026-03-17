@@ -49,7 +49,6 @@
     </div>
   </nav>
 
-  <!-- Conteúdo principal que expande -->
   <main class="flex-1 w-full">
     <div class="container mt-4 text-white">
       @yield('content')
